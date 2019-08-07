@@ -1,1 +1,0 @@
-web: java -jar target/calculator-0.1.0.jar
