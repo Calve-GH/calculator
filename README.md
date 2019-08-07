@@ -1,3 +1,5 @@
+App on heroku: https://calve-calc.herokuapp.com/
+
 Instructions:
 1) Clone or download repository.
 2) Open project with your IDE.
